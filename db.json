@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Watch",
+      "category": "Accessory",
+      "freshness": "Refurbished",
+      "comment": "Smart Watch",
+      "price": 34,
+      "date": "2022-12-14T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "comment": "Lenovo",
+      "price": 67,
+      "date": "2022-12-10T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kurta",
+      "category": "Fashion",
+      "freshness": "Brand new",
+      "comment": "Traditional",
+      "price": 23,
+      "date": "2022-12-22T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
